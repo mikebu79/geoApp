@@ -2,7 +2,7 @@
     <widget xmlns = "http://www.w3.org/ns/widgets"
 
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "mx.cenet.geoApp"
+        id          = "mx.cenet.GeoApp"
         version     = "1.0.0"
         versionCode = "1" >
 
@@ -13,13 +13,15 @@
         <name>GeoApp</name>
 
         <description>
-        	Aplicación de prueba de la geolocalización 
+        	Aplicación de prueba de geolocalizacion 
         </description>
 
-        <author href="http://igitsoft.com" email="info@igitsoft.com">
-        	Miguel Mendez
+        <author href="http://facebook.com" email="fermsx@gmail.com">
+        	Fernando Morales
         </author>
 
 		<!-- Plugins -->
 		<gap:plugin name="org.apache.cordova.geolocation" />
+        
+        
     </widget>
