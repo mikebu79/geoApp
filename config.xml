@@ -22,4 +22,5 @@
 
 		<!-- Plugins -->
 		<gap:plugin name="org.apache.cordova.geolocation" />
+        <gap:plugin name="org.apache.cordova.device" version="0.2.3" />
     </widget>
